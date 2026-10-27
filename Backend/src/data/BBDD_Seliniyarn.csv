@@ -1,0 +1,115 @@
+name,category,collection1,img,price,height,width,weight,availability,color
+Abeja,Normal,Animal,,15,,,,0,
+Sócrates,Mediano,Videojuegos,,30,,,,0,
+Estela,Mediano,Videojuegos,,30,,,,0,
+Ballena,Normal,Animal,,10,,,,0,Morado
+Ballena,Normal,Animal,,10,,,,0,Rosa
+Bubble tea,Pequeño,Misc,,7,,,,0,Azul
+Bubble tea,Pequeño,Misc,,7,,,,0,Rosa
+Capibara,Pequeño,Animal,,8,,,,7,Blanco
+Capibara,Pequeño,Animal,,8,,,,7,Marron
+Calcifer,Pequeño,Anime,,8,,,,0,
+Cinamonroll,Mediano,Sanrio,,25,,,,0,
+Colgador Pato,Pequeño,Car Accesory,,7,,,,0,
+Conejito,Pequeño,Animal,,8,,,,3,
+Conejo Zombie,Mediano,Animal,,25,,,,0,
+Dino,Normal,Animal,,12,,,,5,Rosa
+Dino,Normal,Animal,,12,,,,5,Verde
+Dino,Normal,Animal,,12,,,,5,Morado
+Gengar,Grande,Pokemon,,60,,,,0,
+Chopper,Grande,Anime,,50,,,,1,
+Pochita Grande,Grande,Anime,,50,,,,1,
+Fuecoco,Grande,Pokemon,,60,,,,0,
+Caballerito,Pequeño,Videojuegos,,8,,,,0,
+Cabeza Issac,Normal,Videojuegos,,12,,,,0,
+Jax,Mediano,Series/Peliculas,,25,,,,1,
+Junimo,Pequeño,Videojuegos,,7,,,,1,Azul
+Junimo,Pequeño,Videojuegos,,7,,,,1,Morado
+Junimo,Pequeño,Videojuegos,,7,,,,1,Rosa
+Junimo,Pequeño,Videojuegos,,7,,,,1,Verde
+Kirby,Pequeño,Videojuegos,,7,,,,0,
+Kirby Grande,Mediano,Videojuegos,,25,,,,0,
+Kolog,Pequeño,Videojuegos,,7,,,,0,
+Kuromi,Mediano,Sanrio,,25,,,,0,
+Leggy Froggy,Pequeño,Misc,,8,,,,0,Morado
+Leggy Froggy,Pequeño,Misc,,8,,,,0,Rosa
+Leggy Froggy,Pequeño,Misc,,8,,,,0,Verde
+Leggy Froggy,Pequeño,Misc,,8,,,,0,Verde Agua
+Moguri,Mediano,Videojuegos,,25,,,,0,
+My Melody,Mediano,Sanrio,,25,,,,0,
+Panda,Normal,Animal,,10,,,,0,
+Pato,Normal,Animal,,12,,,,0,Amarillo
+Pato,Normal,Animal,,12,,,,0,Blanco
+Pato,Normal,Animal,,12,,,,0,Verde
+Pato bolso,Pequeño,Pato Accesorio,,2,,,,0,Azul
+Pato bolso,Pequeño,Pato Accesorio,,2,,,,0,Morado
+Pato bolso,Pequeño,Pato Accesorio,,2,,,,0,Rosa
+Pato bolso,Pequeño,Pato Accesorio,,2,,,,0,Verde Agua
+Pato gorro,Pequeño,Pato Accesorio,,4,,,,0,Azul
+Pato gorro,Pequeño,Pato Accesorio,,4,,,,0,Morado
+Pato gorro,Pequeño,Pato Accesorio,,4,,,,0,Rosa
+Pato gorro,Pequeño,Pato Accesorio,,4,,,,0,Verde Agua
+Pato cuchillo,Pequeño,Pato Accesorio,,4,,,,0,
+Perry,Pequeño,Series/Peliculas,,8,,,,0,
+Pikmin,Pequeño,Videojuegos,,7,,,,0,Amarillo
+Pikmin,Pequeño,Videojuegos,,7,,,,0,Azul
+Pikmin,Pequeño,Videojuegos,,7,,,,0,Rojo
+Pinguino,Normal,Animal,,15,,,,0,Azul
+Pinguino,Normal,Animal,,15,,,,0,Morado
+Pinguino,Normal,Animal,,15,,,,0,Rosa
+Pinguino,Normal,Animal,,15,,,,0,Blanco/Negro
+Pochaco,Mediano,Sanrio,,25,,,,0,
+Pochita,Pequeño,Anime,,8,,,,0,
+Pokeball,Pequeño,Pokemon,,5,,,,0,
+Charmander,Normal,Pokemon,,18,,,,0,
+Eevee,Normal,Pokemon,,18,,,,0,
+Espeon,Normal,Pokemon,,18,,,,0,
+Flareon,Normal,Pokemon,,18,,,,0,
+Glaceon,Normal,Pokemon,,18,,,,0,
+Jolteon,Normal,Pokemon,,18,,,,0,
+Leafeon,Normal,Pokemon,,18,,,,0,
+Pikachu,Normal,Pokemon,,18,,,,0,
+Piplup,Normal,Pokemon,,18,,,,0,
+Squitle,Normal,Pokemon,,18,,,,0,
+Sylveon,Normal,Pokemon,,18,,,,0,
+Umbreon,Normal,Pokemon,,18,,,,0,
+Vaporeon,Normal,Pokemon,,18,,,,0,
+Poro,Pequeño,Videojuegos,,7,,,,0,
+Rana bola,Normal, Animal,,10,,,,0,
+Rata,Normal, Animal,,15,,,,0,Gris
+Rata,Normal, Animal,,15,,,,0,Blanco
+Rata,Normal, Animal,,15,,,,0,Negro
+Seta,Pequeño,Animal,,8,,,,5,Rojo
+Seta,Pequeño,Animal,,8,,,,5,Marron
+Sin cara,Normal,Series/Peliculas,,15,,,,0,
+Star Fruit,Pequeño,Videojuegos,,7,,,,0,
+Susuwatari,Pequeño,Series/Peliculas,,8,,,,0,
+Tortuga,Normal,Animal,,12,,,,0,Azul
+Tortuga,Normal,Animal,,12,,,,0,Rosa
+Tortuga,Normal,Animal,,12,,,,0,Verde
+Totoro,Normal,Series/Peliculas,,15,,,,0,
+Triceratops,Pequeño,Animal,,8,,,,0,Azul
+Triceratops,Pequeño,Animal,,8,,,,0,Rosa
+Triceratops,Pequeño,Animal,,8,,,,0,Verde
+Abeja Llavero,Llavero,Animal,,6,,,,12,Azul/Blanco
+Abeja Llavero,Llavero,Animal,,6,,,,6,Amarillo/Negro
+Abeja Llavero,Llavero,Animal,,6,,,,0,Azul/Morado/Rosa
+Abeja Llavero,Llavero,Animal,,6,,,,1,Arcoiris
+Abeja Llavero,Llavero,Animal,,6,,,,7,Morado/Blanco
+Abeja Llavero,Llavero,Animal,,6,,,,11,Morado/Negro
+Abeja Llavero,Llavero,Animal,,6,,,,5,Rosa/Blanco/Naranja
+Abeja Llavero,Llavero,Animal,,6,,,,2,Rosa/Blanco
+Abeja Llavero,Llavero,Animal,,6,,,,12,Rosa/Negro
+Ballena Llavero,Llavero,Animal,,6,,,,4,Azul
+Ballena Llavero,Llavero,Animal,,6,,,,4,Morado
+Ballena Llavero,Llavero,Animal,,6,,,,3,Rosa
+Huevo Togepi,Llavero,Pokemon,,6,,,,8,
+Huevo Yoshi,Llavero,Videojuegos,,6,,,,0,
+Pokeball Llavero,Llavero,Pokemon,,6,,,,11,
+Slime GI,Llavero,Videojuegos,,6,,,,14,
+Osos,Mini,Animal,,5,,,,14,
+Pollo,Mini,Animal,,5,,,,2,Amarillo
+Pollo,Mini,Animal,,5,,,,2,Blanco
+Pulpos,Mini,Animal,,5,,,,4,
+Ranas,Mini,Animal,,5,,,,7,
+Triceratops,Mini,Animal,,5,,,,4,
