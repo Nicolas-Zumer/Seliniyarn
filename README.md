@@ -298,6 +298,27 @@ El cliente HTTP común se encuentra en `Frontend/src/services/api.js`. Todas las
 
 El proyecto está preparado para desplegar el backend como **Web Service** y el frontend como **Static Site**, ambos conectados al mismo repositorio de GitHub. MongoDB y Cloudinary son servicios externos: Render ejecuta la API, pero no sustituye la base de datos ni el almacenamiento de imágenes.
 
+### URLs públicas actuales
+
+- **Tienda:** [https://seliniyarn-front.onrender.com](https://seliniyarn-front.onrender.com)
+- **API:** [https://seliniyarn-back.onrender.com](https://seliniyarn-back.onrender.com)
+- **Comprobación de estado de la API:** [https://seliniyarn-back.onrender.com/health](https://seliniyarn-back.onrender.com/health)
+- **URL base de la API usada por el frontend:** `https://seliniyarn-back.onrender.com/api/v1`
+
+La ruta que aparece después del dominio (por ejemplo, `/PlushiDisplay`) identifica una página concreta de React; no es parte del nombre de dominio. El rewrite `/*` → `/index.html` del Static Site permite que React Router cargue esas rutas directamente y al actualizar el navegador.
+
+### Variables configuradas en Render
+
+En el **Web Service** se configuran `DB_URL`, `JWT_SECRET`, `CLOUDINARY_cloud_name`, `CLOUDINARY_api_key`, `CLOUDINARY_api_secret` y `FRONTEND_URL`. Para el despliegue actual, `FRONTEND_URL` debe tener el valor `https://seliniyarn-front.onrender.com`.
+
+En el **Static Site** se configura `VITE_API_URL` con el valor `https://seliniyarn-back.onrender.com/api/v1`. Esta variable se incorpora durante la compilación, por lo que un cambio requiere un nuevo deploy del frontend.
+
+Las credenciales privadas se guardan en la configuración del servicio de Render y no en GitHub. `PORT` lo proporciona Render; no se configura manualmente.
+
+### Personalizar la URL pública
+
+El subdominio gratuito de Render se basa en el nombre del servicio. Se puede cambiar el nombre del Static Site desde sus ajustes en Render para usar otro subdominio disponible de `onrender.com`; el dominio anterior puede dejar de funcionar, así que hay que actualizar los enlaces y `FRONTEND_URL` en el backend. Para usar un dominio propio, hay que registrar/comprar uno y añadirlo en **Settings → Custom Domains** del Static Site, siguiendo allí las instrucciones DNS de Render. En ese caso, `FRONTEND_URL` también debe actualizarse al nuevo origen.
+
 ### Web Service del backend
 
 1. Sube el repositorio a GitHub.
